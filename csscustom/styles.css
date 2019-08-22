@@ -22,3 +22,11 @@ color: beige;
 text-align: center;
 padding: 40px;
 }
+.services {
+  background-image: url(../assets/backgrounds/s_image.jpg);
+  height: 400px;
+  padding: 90px;
+  text-align: center;
+  color: azure;
+  background-size: cover;
+  }
