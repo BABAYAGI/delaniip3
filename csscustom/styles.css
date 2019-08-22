@@ -41,10 +41,18 @@ padding: 40px;
 }
 #deve{
   display: none;
+  text-align: center;
+  font-size: 15px;
 }
+
 #des{
   display: none;
+  text-align: center;
+  font-size: 15px;
 }
+
 #product {
   display: none;
+  text-align: center;
+  font-size: 15px;
 }
