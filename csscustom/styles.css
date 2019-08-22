@@ -37,4 +37,14 @@ padding: 40px;
 .whatwedo{
   text-align: center;
   padding: 20px;
+  font-weight: bold;
+}
+#deve{
+  display: none;
+}
+#des{
+  display: none;
+}
+#product {
+  display: none;
 }
