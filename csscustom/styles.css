@@ -185,3 +185,19 @@ text-align: center;
   color: azure;
   display: none;
 }
+.conc{
+  background-image: url(../assets/backgrounds/c_image.jpg);
+  height: 400px;
+  background-size: 100%;
+  text-align: center;
+}
+.conc input{
+  color: white;
+  background-color: rgba(240, 255, 252, 0.342);
+  width: 400px;
+  margin-left: 20px;
+  margin-top: 40px;
+}
+#comment{
+  height: 230px;
+} 
