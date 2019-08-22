@@ -56,3 +56,132 @@ padding: 40px;
   text-align: center;
   font-size: 15px;
 }
+.work1 {
+  background-image: url(../assets/portfolio/work4.jpg);
+  height: 140px;
+  background-size: 100%;
+  margin-left:180px;
+}
+.work2 {
+  background-image: url(../assets/portfolio/work3.jpg);
+  height: 140px;
+  background-size: 100%;
+  margin-left: 15px;
+}
+.work3 {
+  background-image: url(../assets/portfolio/work2.jpg);
+  height: 140px;
+  background-size: 100%;
+  margin-left: 15px;
+}
+.work4 {
+  background-image: url(../assets/portfolio/work1.jpg);
+  height: 140px;
+  background-size: 100%;
+  border: 20px;
+  margin-left: 15px;
+}
+.work5 {
+  background-image: url(../assets/portfolio/work5.jpg);
+  height: 140px;
+  background-size: 100%;
+  margin-left: 180px;
+}
+.work6 {
+  background-image: url(../assets/portfolio/work6.jpg);
+  height: 140px;
+  background-size: 100%;
+  margin-left: 15px;
+}
+.work7 {
+  background-image: url(../assets/portfolio/work7.jpg);
+  height: 140px;
+  background-size: 100%;
+  margin-left: 15px;
+}
+.work8 {
+  background-image: url(../assets/portfolio/work8.jpg);
+  height: 140px;
+  background-size: 100%;
+  border: 20px;
+  margin-left: 15px;
+}
+
+.rw {
+  margin: 15px;
+}
+.portfolio {
+text-align: center;
+}
+#port1{
+  padding: 11px;
+  height: 100px;
+  border: 10px;
+  border-color: azure;
+  margin: 5px;
+  color: azure;
+  display: none;
+}
+#port2{
+  padding: 11px;
+  height: 100px;
+  border: 10px;
+  border-color: azure;
+  margin: 5px;
+  color: azure;
+  display: none;
+}
+#port3{
+  padding: 11px;
+  height: 100px;
+  border: 10px;
+  border-color: azure;
+  margin: 5px;
+  color: azure;
+  display: none;
+}
+#port4{
+  padding: 11px;
+  height: 100px;
+  border: 10px;
+  border-color: azure;
+  margin: 5px;
+  color: azure;
+  display: none;
+}
+#port5{
+  padding: 11px;
+  height: 100px;
+  border: 10px;
+  border-color: azure;
+  margin: 5px;
+  color: azure;
+  display: none;
+}
+#port6{
+  padding: 11px;
+  height: 100px;
+  border: 10px;
+  border-color: azure;
+  margin: 5px;
+  color: azure;
+  display: none;
+}
+#port7{
+  padding: 11px;
+  height: 100px;
+  border: 10px;
+  border-color: azure;
+  margin: 5px;
+  color: azure;
+  display: none;
+}
+#port8{
+  padding: 11px;
+  height: 100px;
+  border: 10px;
+  border-color: azure;
+  margin: 5px;
+  color: azure;
+  display: none;
+}
