@@ -1,5 +1,5 @@
-# {Application Name}
-#### {Brief description of application}, {Date of current version}
+# DEALNI STUDIO
+#### version 1.00.00.1
 #### By **{List of contributors}**
 ## Description
 This is awebsite created using I have used bootstrap
