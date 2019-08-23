@@ -102,7 +102,7 @@ $(document).ready(function(){
 
 
 //feedback
-var name = formm.name.value ;
-var email = formm.email.value;
-var message = formm.comment.value;
+var name = document.getElementById("name").value;
+var email = document.getElementById("email").value;
+var message = document.getElementById("message").value;
 
