@@ -1,3 +1,4 @@
+//what we do
 $(document).ready(function() {
   $("#design").mouseenter(function() {
     $("#des").show();
@@ -32,6 +33,7 @@ $(document).ready(function() {
       
   }); 
 });
+//portfolio
 $(document).ready(function(){
   $(".work1").hover(function(){
     $("#port1").show();
@@ -96,3 +98,11 @@ $(document).ready(function(){
     $("#port8").hide();
   });
 });
+
+
+
+//feedback
+var name = formm.name.value ;
+var email = formm.email.value;
+var message = formm.comment.value;
+
