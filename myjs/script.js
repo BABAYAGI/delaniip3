@@ -1,6 +1,6 @@
 //what we do
 $(document).ready(function() {
-  $("#design").mouseenter(function() {
+  $("#design").hover(function() {
     $("#des").show();
     $("#design").hide();
     
@@ -99,35 +99,27 @@ $(document).ready(function(){
   });
 });
 
-$(document).ready(function(){
-
- // getting the name from form
-  
-    $("#submit").click(function (event) {
-      console.log("working");
-      event.preventDefault();
-      var name = document.getElementById("name").value;
-      var email = document.getElementById("email").value;
-      var text = document.getElementById("text").value;
-      // form validation
-      if (name == "") {
-        alert("please enter your name");
-        return false;
-      }
-      else if (email == "") {
-        alert("please enter your email");
-        return false;
-      }
-      else if (text == "") {
-        alert("please tell us something");
-        return false;
-      }
-      else {
-        alert(name + " your message is received. Thank you");
-      }
-      document.getElementById("form1").reset();
-    });
+// getting the name from form
+$(document).ready(function() {
+  $("#submit").click (function(event) {
+    console.log("working")
+    event.preventDefault();
+    var name=document.getElementById("name").value;
+    var email=document.getElementById("email").value;
+    var text=document.getElementById("text").value;
+    // form validation
+    if (name == ""){
+      alert("Please enter your name");
+      return false;
+    }else if(email == ""){
+      alert("Please enter your email")
+      return false;
+    }else if(text == ""){
+      alert("Please give a feedback")
+      return false;
+    }else {
+      alert(name + " your message is received. Thank you");
+    }
+    document.getElementById("form1").reset();
   });
-  function b(){
-    alert("thank you for your feedback")
-  }
+});
