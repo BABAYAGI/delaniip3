@@ -16,7 +16,13 @@ This is awebsite created using I have used bootstrap
 * format
 {Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? Do I need to install any dependencies? How should I set up my databases? Is there other code this app depends on?}
 ## Known Bugs
-currently there are no bugs
+Fork the repo
+Create a new branch (git checkout -b improve-feature)
+Make the appropriate changes in the files
+Add changes to reflect the changes made
+Commit your changes (git commit -am 'Improve feature')
+Push to the branch (git push origin improve-feature)
+Create a Pull Request
 ## Technologies Used
 I have used bootstrap
 I have used jquery

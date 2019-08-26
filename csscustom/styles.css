@@ -111,6 +111,7 @@ padding: 40px;
   background-size: 100%;
   border: 20px;
   margin-left: 15px;
+  border-color: rgb(16, 236, 236);
 }
 
 .rw {
@@ -123,19 +124,30 @@ text-align: center;
   padding: 11px;
   height: 100px;
   border: 10px;
-  border-color: azure;
+  
   margin: 5px;
-  color: azure;
+  color: rgb(47, 201, 201);
   display: none;
 }
+#port1 p {
+  border-style: solid;
+  border-width: 3px;
+  color:rgb(31, 243, 243);
+}
 #port2{
-  padding: 11px;
+  padding: 7px;
   height: 100px;
   border: 10px;
   border-color: azure;
-  margin: 5px;
+  margin: 2px;
   color: azure;
   display: none;
+  border-width: 10px;
+}
+#port2 p {
+  border-style: solid;
+  border-width: 3px;
+  color:rgb(31, 243, 243);
 }
 #port3{
   padding: 11px;
@@ -146,6 +158,11 @@ text-align: center;
   color: azure;
   display: none;
 }
+#port3 p {
+  border-style: solid;
+  border-width: 3px;
+  color:rgb(31, 243, 243);
+}
 #port4{
   padding: 11px;
   height: 100px;
@@ -154,6 +171,11 @@ text-align: center;
   margin: 5px;
   color: azure;
   display: none;
+}
+#port4 p {
+  border-style: solid;
+  border-width: 3px;
+  color:rgb(31, 243, 243);
 }
 #port5{
   padding: 11px;
@@ -164,6 +186,11 @@ text-align: center;
   color: azure;
   display: none;
 }
+#port5 p {
+  border-style: solid;
+  border-width: 3px;
+  color:rgb(31, 243, 243);
+}
 #port6{
   padding: 11px;
   height: 100px;
@@ -172,6 +199,11 @@ text-align: center;
   margin: 5px;
   color: azure;
   display: none;
+}
+#port6 p {
+  border-style: solid;
+  border-width: 3px;
+  color:rgb(31, 243, 243);
 }
 #port7{
   padding: 11px;
@@ -182,6 +214,11 @@ text-align: center;
   color: azure;
   display: none;
 }
+#port7 p {
+  border-style: solid;
+  border-width: 3px;
+  color:rgb(31, 243, 243);
+}
 #port8{
   padding: 11px;
   height: 100px;
@@ -190,6 +227,11 @@ text-align: center;
   margin: 5px;
   color: azure;
   display: none;
+}
+#port8 p {
+  border-style: solid;
+  border-width: 3px;
+  color:rgb(31, 243, 243);
 }
 .conc{
   background-image: url(../assets/backgrounds/c_image.jpg);
