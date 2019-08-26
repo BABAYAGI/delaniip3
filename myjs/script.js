@@ -3,11 +3,13 @@ $(document).ready(function() {
   $("#design").hover(function() {
     $("#des").show();
     $("#design").hide();
+    $(".de").hide();
     
   });
   $("#des").mouseleave(function() {
     $("#design").show();
     $("#des").hide();
+    $(".de").show();
       
   }); 
 });
@@ -15,21 +17,24 @@ $(document).ready(function() {
   $("#dev").hover(function() {
     $("#deve").show();
     $("#dev").hide();
+    $(".de").hide();
   });
   $("#deve").mouseleave(function() {
     $("#dev").show();
     $("#deve").hide();
-      
+    $(".de").show();  
   }); 
 });
 $(document).ready(function() {
   $("#producti").hover(function() {
     $("#product").show();
     $("#producti").hide();
+    $(".de").hide();
   });
   $("#product").mouseleave(function() {
     $("#producti").show();
     $("#product").hide();
+    $(".de").show();
       
   }); 
 });
